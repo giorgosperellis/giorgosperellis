@@ -140,5 +140,4 @@ BSc in Statistics and Insurance Science
 
 📍 Athens, Greece
 
-💼 Open to professional opportunities in Data Analytics,
-Business Intelligence, Reporting, and Process Automation.
+
